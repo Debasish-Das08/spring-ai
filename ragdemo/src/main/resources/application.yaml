@@ -3,7 +3,7 @@ spring:
     name: ragdemo
   ai:
     openai:
-      api-key: ${OPEN_AI_API_KEY}
+      api-key: ${OPENAI_API_KEY}
       chat:
         options:
           model: gpt-3.5-turbo

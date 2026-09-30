@@ -8,6 +8,6 @@ public class RagConfig {
 
 
 
-    @Bean
+   // @Bean
 
 }
